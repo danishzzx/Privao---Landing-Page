@@ -28,33 +28,39 @@ A studio‑grade, high‑performance marketing site for a private jet company. B
 - 404 & Error Pages: branded fallbacks with motion
 - Developer Credit: subtle session‑based popup linking to Danish’s portfolio
 
-## Tech Stack
-
-- Next.js 15 with the App Router
-- React 19
-- Tailwind CSS v4
-- Framer Motion 12
-- Lucide React & React Icons
-- TypeScript
-
-## Performance & UX
-
-- Motion tuned for fluidity and restraint; no jank on mobile
-- Careful easing, durations, and stagger for a premium feel
-- Accessible focus states and semantic HTML
-
 ## Screenshots
 
-> Find high‑resolution screenshots in the project root.
+> All screenshots are in the project root.
 
-- Home – Hero and Header (`screenshot-hero.jpg`)
-- Why Us Cards (`screenshot-why-us.jpg`)
-- Fleet Preview (`screenshot-fleet.jpg`)
-- Stats & Testimonials (`screenshot-stats-testimonials.jpg`)
-- CTA & Footer (`screenshot-cta-footer.jpg`)
-- 404 Page (`screenshot-404.jpg`)
+### Hero & Header
+
+![Hero](./hero.png)
+
+### Why Us Cards
+
+![Why Us](./why-us.png)
+
+### Fleet Preview
+
+![Fleet](./fleet.png)
+
+### Numbers / Stats
+
+![Stats](./numbers.png)
+
+### Testimonials
+
+![Testimonials](./testimonials.png)
+
+### CTA Banner
+
+![CTA](./cta.png)
+
+### Footer
+
+![Footer](./footer.png)
 
 ## Credits
 
-- Design & Development: Danish (`https://danishfolio.cc`)
+- Design & Development: [Danish](https://danishfolio.cc)
 - Images: project `public/` assets
